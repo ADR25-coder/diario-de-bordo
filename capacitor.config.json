@@ -1,0 +1,7 @@
+{
+  "appId": "br.com.diariodebordo.motorista",
+  "appName": "Diário de Bordo",
+  "webDir": "www",
+  "backgroundColor": "#0b1f3a",
+  "android": { "allowMixedContent": false }
+}
